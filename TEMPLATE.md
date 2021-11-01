@@ -1,4 +1,4 @@
-### Hi 👋 I am Mylloon and I am [now using Gitlab](https://gitlab.com/Mylloon).
+### Hi 👋 I am [now using my own Git instance](https://git.kennel.ml/Mylloon).
 
 Joined Github **{{ ACCOUNT_AGE }}** years ago but now [all my repositories are on Gitlab](https://gitlab.com/users/Mylloon/projects).
 
