@@ -1,6 +1,6 @@
 ### Hi 👋 I am [now using my own Git instance](https://git.kennel.ml/Anri).
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago but now [all my repositories are on Gitlab](https://gitlab.com/users/Mylloon/projects).
+Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
 Since then I joined Github, I pushed **{{ COMMITS }}** commits, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
