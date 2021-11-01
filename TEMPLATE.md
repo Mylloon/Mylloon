@@ -1,4 +1,4 @@
-### Hi 👋 I am [now using my own Git instance](https://git.kennel.ml/Mylloon).
+### Hi 👋 I am [now using my own Git instance](https://git.kennel.ml/Anri).
 
 Joined Github **{{ ACCOUNT_AGE }}** years ago but now [all my repositories are on Gitlab](https://gitlab.com/users/Mylloon/projects).
 
