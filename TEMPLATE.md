@@ -1,4 +1,4 @@
-### Hi 👋 I [prefer using Codeberg](https://codeberg.org/Mylloon/Mylloon), check this out!.
+### Hi 👋 I [prefer using Codeberg](https://codeberg.org/Mylloon/Mylloon), check this out!
 
 Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
