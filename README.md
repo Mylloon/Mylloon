@@ -1,4 +1,4 @@
-### Hi 👋 I [prefer using Codeberg](https://codeberg.org/Mylloon/Mylloon), check this out!
+### Hi 👋 I [prefer using Codeberg](https://codeberg.org/Mylloon/Mylloon/src/branch/main/README.md), check this out!
 
 Joined Github **4** years ago.
 
