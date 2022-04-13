@@ -4,4 +4,6 @@ Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
 Since then I joined Github, I pushed **{{ COMMITS }}** commits, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
-![Mylloon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mylloon&show_icons=true&theme=dracula)
+[![Mylloon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mylloon&show_icons=true&theme=dracula)](https://github-readme-stats.vercel.app/)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mylloon&theme=dracula&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
