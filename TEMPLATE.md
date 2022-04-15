@@ -2,7 +2,9 @@
 
 Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
-Since then I joined Github, I pushed **{{ COMMITS }}** commits, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and **{{ GISTS }}** gists, opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+Since then, I pushed **{{ COMMITS }}** commits, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and **{{ GISTS }}** gists
+
+I opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/">
