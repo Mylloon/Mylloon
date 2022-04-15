@@ -2,7 +2,9 @@
 
 Joined Github **4** years ago.
 
-Since then I joined Github, I pushed **32** commits, received **1** stars across **2** personal projects and **1** gists, opened **20** issues, submitted **8** pull requests and contributed to **15** public repositories.
+Since then, I pushed **34** commits, received **1** stars across **2** personal projects and **1** gists
+
+I opened **20** issues, submitted **8** pull requests and contributed to **15** public repositories.
 
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/">
