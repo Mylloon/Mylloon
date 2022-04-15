@@ -18,8 +18,8 @@ Since then I joined Github, I pushed **{{ COMMITS }}** commits, received **{{ ST
 
 Top 3 most used languages:
 
-{{ LANGUAGE_TEMPLATE_START:max=3 }}
 <p align="center">
+{{ LANGUAGE_TEMPLATE_START:max=3 }}
     <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor={{LANGUAGE_COLOR:uri}}&message={{LANGUAGE_NAME:uri}}%EF%B8%B1{{LANGUAGE_PERCENT:uri}}%25" alt="{{LANGUAGE_NAME}}">
-</p>
 {{ LANGUAGE_TEMPLATE_END }}
+</p>
