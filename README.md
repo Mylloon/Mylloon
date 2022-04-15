@@ -2,7 +2,7 @@
 
 Joined Github **4** years ago.
 
-Since then I joined Github, I pushed **26** commits, received **1** stars across **1** personal projects and **1** gists, opened **20** issues, submitted **8** pull requests and contributed to **15** public repositories.
+Since then I joined Github, I pushed **28** commits, received **1** stars across **2** personal projects and **1** gists, opened **20** issues, submitted **8** pull requests and contributed to **15** public repositories.
 
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/">
@@ -18,3 +18,6 @@ Since then I joined Github, I pushed **26** commits, received **1** stars across
 
 Top 3 most used languages:
 
+![CSS](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B169.8%25)
+![PHP](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B121.6%25)
+![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B18.5%25)
