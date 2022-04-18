@@ -2,7 +2,7 @@
 
 Joined Github **4** years ago.
 
-Since then, I pushed **35** commits, received **1** stars across **2** personal projects and **1** gists
+Since then, I pushed **35** commits, received **1** stars across **1** personal projects and **1** gists
 
 I opened **20** issues, submitted **8** pull requests and contributed to **15** public repositories.
 
@@ -21,8 +21,8 @@ I opened **20** issues, submitted **8** pull requests and contributed to **15** 
 Top 3 most used languages:
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B169.8%25" alt="CSS">
-    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B121.6%25" alt="PHP">
-    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B16.7%25" alt="JavaScript">
-    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B11.7%25" alt="Other">
+    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B133.5%25" alt="PHP">
+    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B128.6%25" alt="JavaScript">
+    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B126.5%25" alt="CSS">
+    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B111.1%25" alt="Other">
 </p>
