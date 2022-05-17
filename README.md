@@ -2,7 +2,7 @@
 
 Joined Github **4** years ago.
 
-Since then, I pushed **39** commits, received **1** stars across **1** personal projects and **2** gists.
+Since then, I pushed **40** commits, received **1** stars across **1** personal projects and **2** gists.
 
 I opened **20** issues, submitted **8** pull requests and contributed to **15** public repositories.
 
@@ -26,3 +26,5 @@ Top 3 most used languages:
     <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23563d7c&message=CSS%EF%B8%B126.5%25" alt="CSS">
     <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B111.1%25" alt="Other">
 </p>
+
+<table align="center"><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/Mylloon/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/Mylloon/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/Mylloon/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
