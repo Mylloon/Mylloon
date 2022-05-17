@@ -1,6 +1,6 @@
 ### Hi 👋 I [prefer using Codeberg](https://codeberg.org/Mylloon/Mylloon), check this out!
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago.
+Joined Github **{{ ACCOUNT_AGE }}** years ago. ![Profile views](https://gpvc.arturio.dev/Mylloon)
 
 Since then, I pushed **{{ COMMITS }}** commits, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and **{{ GISTS }}** gists.
 
