@@ -2,9 +2,9 @@
 
 Joined Github **4** years ago. ![Profile views](https://gpvc.arturio.dev/Mylloon)
 
-Since then, I pushed **60** commits, received **1** stars across **1** personal projects and **2** gists.
+Since then, I pushed **64** commits, received **1** stars across **1** personal projects and **2** gists.
 
-I opened **33** issues, submitted **10** pull requests and contributed to **15** public repositories.
+I opened **37** issues, submitted **10** pull requests and contributed to **15** public repositories.
 
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/">
