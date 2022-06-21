@@ -1,10 +1,12 @@
-### Hi 👋 I [prefer using Codeberg](https://codeberg.org/Mylloon/Mylloon), check this out!
+### Hi 👋
 
 Joined Github **{{ ACCOUNT_AGE }}** years ago. ![Profile views](https://gpvc.arturio.dev/Mylloon)
 
 Since then, I pushed **{{ COMMITS }}** commits, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and **{{ GISTS }}** gists.
 
 I opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
+
+I am also on [Codeberg](https://codeberg.org/Mylloon/Mylloon).
 
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/">
