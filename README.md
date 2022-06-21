@@ -1,8 +1,8 @@
-### Hi 👋
+### Hi 👋 ![Profile views](https://gpvc.arturio.dev/Mylloon)
 
-Joined Github **5** years ago. ![Profile views](https://gpvc.arturio.dev/Mylloon)
+Joined Github **5** years ago.
 
-Since then, I pushed **120** commits, received **1** stars across **1** personal projects and **2** gists.
+Since then, I pushed **121** commits, received **1** stars across **1** personal projects and **2** gists.
 
 I opened **45** issues, submitted **16** pull requests and contributed to **16** public repositories.
 
