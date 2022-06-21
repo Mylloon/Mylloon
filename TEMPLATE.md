@@ -1,6 +1,6 @@
-### Hi 👋
+### Hi 👋 ![Profile views](https://gpvc.arturio.dev/Mylloon)
 
-Joined Github **{{ ACCOUNT_AGE }}** years ago. ![Profile views](https://gpvc.arturio.dev/Mylloon)
+Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
 Since then, I pushed **{{ COMMITS }}** commits, received **{{ STARS }}** stars across **{{ REPOSITORIES }}** personal projects and **{{ GISTS }}** gists.
 
