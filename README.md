@@ -4,7 +4,7 @@ Joined Github **5** years ago.
 
 Since then, I pushed **124** commits, received **1** stars across **1** personal projects and **2** gists.
 
-I opened **48** issues, submitted **20** pull requests and contributed to **13** public repositories.
+I opened **49** issues, submitted **20** pull requests and contributed to **13** public repositories.
 
 I am also on [Codeberg](https://codeberg.org/Mylloon/Mylloon).
 
