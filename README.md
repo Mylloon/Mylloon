@@ -2,7 +2,7 @@
 
 Joined Github **5** years ago.
 
-Since then, I pushed **140** commits, received **3** stars across **1** personal projects and **2** gists.
+Since then, I pushed **141** commits, received **3** stars across **1** personal projects and **2** gists.
 
 I opened **56** issues, submitted **24** pull requests and contributed to **15** public repositories.
 
@@ -10,7 +10,7 @@ I am also on [Codeberg](https://codeberg.org/Mylloon/Mylloon).
 
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/">
-        <img src="https://github-readme-stats.vercel.app/api?username=Mylloon&show_icons=true&theme=dracula" alt="Mylloon's GitHub stats">
+        <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=Mylloon&show_icons=true&theme=dracula" alt="Mylloon's GitHub stats">
     </a>
 </p>
 
