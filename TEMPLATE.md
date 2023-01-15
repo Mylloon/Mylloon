@@ -10,7 +10,7 @@ I am also on [Codeberg](https://codeberg.org/Mylloon/Mylloon).
 
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/">
-        <img src="https://github-readme-stats.vercel.app/api?username=Mylloon&show_icons=true&theme=dracula" alt="Mylloon's GitHub stats">
+        <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=Mylloon&show_icons=true&theme=dracula" alt="Mylloon's GitHub stats">
     </a>
 </p>
 
