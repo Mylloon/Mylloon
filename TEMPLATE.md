@@ -6,7 +6,7 @@ Since then, I pushed **{{ COMMITS }}** commits, received **{{ STARS }}** stars a
 
 I opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
-You can check [my website for more](www.mylloon.fr). 😊
+You can check [my website for more](https://www.mylloon.fr). 😊
 
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/">
