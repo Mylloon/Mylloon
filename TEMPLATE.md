@@ -6,17 +6,17 @@ Since then, I pushed **{{ COMMITS }}** commits, received **{{ STARS }}** stars a
 
 I opened **{{ ISSUES }}** issues, submitted **{{ PULL_REQUESTS }}** pull requests and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** public repositories.
 
-I am also on [Codeberg](https://codeberg.org/Mylloon/Mylloon).
+You can check [my website for more](www.mylloon.fr). 😊
 
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/">
-        <img src="https://github-readme-stats-ruby-one.vercel.app/api?username=Mylloon&show_icons=true&theme=dracula" alt="Mylloon's GitHub stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=Mylloon&show_icons=true&theme=dracula" alt="Mylloon's GitHub stats" width=470>
     </a>
 </p>
 
 <p align="center">
     <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=Mylloon&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Mylloon&theme=dracula&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" width=470>
     </a>
 </p>
 
