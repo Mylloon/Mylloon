@@ -1,8 +1,13 @@
-### Hi 👋 ![](https://komarev.com/ghpvc/?username=Mylloon&color=blueviolet&style=flat-square) <!-- ![Profile views](https://gpvc.arturio.dev/Mylloon) -->
+### Hi 👋
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Mylloon/count.svg" />
+</p>
 
 Joined Github **5** years ago.
 
-Since then, I pushed **144** commits, received **3** stars across **4** personal projects and **2** gists.
+Since then, I pushed **145** commits, received **3** stars across **4** personal projects and **2** gists.
 
 I opened **56** issues, submitted **26** pull requests and contributed to **16** public repositories.
 
