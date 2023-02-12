@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron: '0 */12 * * *' # toute les 12 heures
+    - cron: "0 */12 * * *" # every 12 hours
   push:
     branches:
       - main
@@ -8,20 +8,20 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
-      with:
-        fetch-depth: 0
-    - name: Generate README.md
-      uses: teoxoy/profile-readme-stats@master
-      with:
-        token: ${{ secrets.USER_TOKEN }}
-        includeForks: true
-    - name: Update README.md
-      run: |
-        if [[ "$(git status --porcelain)" != "" ]]; then
-        git config user.name github-actions[bot]
-        git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-        git add .
-        git commit -m "🌈 Mise-à-jour du README"
-        git push
-        fi
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Generate README.md
+        uses: teoxoy/profile-readme-stats@master
+        with:
+          token: ${{ secrets.USER_TOKEN }}
+          includeForks: true
+      - name: Update README.md
+        run: |
+          if [[ "$(git status --porcelain)" != "" ]]; then
+            git config user.name github-actions[bot]
+            git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+            git add .
+            git commit -m "🌈 Update README"
+            git push
+          fi
