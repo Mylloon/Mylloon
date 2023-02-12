@@ -1,13 +1,13 @@
-### Hi 👋
-
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Mylloon/count.svg" />
 </p>
 
+### Hi 👋
+
 Joined Github **5** years ago.
 
-Since then, I pushed **147** commits, received **3** stars across **4** personal projects and **2** gists.
+Since then, I pushed **148** commits, received **3** stars across **4** personal projects and **2** gists.
 
 I opened **56** issues, submitted **26** pull requests and contributed to **16** public repositories.
 
