@@ -1,9 +1,9 @@
-### Hi 👋
-
 <p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Mylloon/count.svg" />
 </p>
+
+### Hi 👋
 
 Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
