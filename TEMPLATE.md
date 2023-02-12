@@ -1,4 +1,9 @@
-### Hi 👋 ![](https://komarev.com/ghpvc/?username=Mylloon&color=blueviolet&style=flat-square) <!-- ![Profile views](https://gpvc.arturio.dev/Mylloon) -->
+### Hi 👋
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Mylloon/count.svg" />
+</p>
 
 Joined Github **{{ ACCOUNT_AGE }}** years ago.
 
