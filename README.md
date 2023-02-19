@@ -7,9 +7,9 @@
 
 Joined Github **5** years ago.
 
-Since then, I pushed **1001** commits, received **3** stars across **3** personal projects and **2** gists.
+Since then, I pushed **1002** commits, received **3** stars across **4** personal projects and **2** gists.
 
-I opened **56** issues, submitted **26** pull requests and contributed to **15** public repositories.
+I opened **56** issues, submitted **27** pull requests and contributed to **15** public repositories.
 
 You can check [my website for more](https://www.mylloon.fr). 😊
 
@@ -28,10 +28,10 @@ You can check [my website for more](https://www.mylloon.fr). 😊
 Top 3 most used languages:
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%EF%B8%B189.8%25" alt="Kotlin">
-    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B13.1%25" alt="PHP">
-    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B13%25" alt="JavaScript">
-    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B13.9%25" alt="Other">
+    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23A97BFF&message=Kotlin%EF%B8%B199%25" alt="Kotlin">
+    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%234F5D95&message=PHP%EF%B8%B10.2%25" alt="PHP">
+    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f1e05a&message=JavaScript%EF%B8%B10.2%25" alt="JavaScript">
+    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.3%25" alt="Other">
 </p>
 
 <table align="center"><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/Mylloon/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/Mylloon/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/Mylloon/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
