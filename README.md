@@ -9,7 +9,7 @@ Joined Github **5** years ago.
 
 Since then, I pushed **1002** commits, received **3** stars across **4** personal projects and **2** gists.
 
-I opened **56** issues, submitted **27** pull requests and contributed to **15** public repositories.
+I opened **56** issues, submitted **28** pull requests and contributed to **16** public repositories.
 
 You can check [my website for more](https://www.mylloon.fr). 😊
 
