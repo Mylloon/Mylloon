@@ -7,7 +7,7 @@
 
 Joined Github **5** years ago.
 
-Since then, I pushed **1056** commits, received **6** stars across **10** personal projects and **2** gists.
+Since then, I pushed **1052** commits, received **6** stars across **9** personal projects and **2** gists.
 
 I opened **60** issues, submitted **30** pull requests and contributed to **19** public repositories.
 
@@ -28,10 +28,10 @@ You can check [my website for more](https://www.mylloon.fr). 😊
 Top 3 most used languages:
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B134.3%25" alt="C">
-    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23dea584&message=Rust%EF%B8%B115%25" alt="Rust">
-    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233be133&message=OCaml%EF%B8%B113.8%25" alt="OCaml">
-    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B136.8%25" alt="Other">
+    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B136.1%25" alt="C">
+    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23dea584&message=Rust%EF%B8%B115.8%25" alt="Rust">
+    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233be133&message=OCaml%EF%B8%B114.5%25" alt="OCaml">
+    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B133.5%25" alt="Other">
 </p>
 
 <table align="center"><tbody><tr><td><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/top.png" width="99%" alt="Octo Ring logo" align="top"></a><br><a href="https://octo-ring.com/p/Mylloon/prev"><img src="https://octo-ring.com/static/img/widget/prev.png" width="33%" alt="previous" align="top" title="previous profile"></a><a href="https://octo-ring.com/p/Mylloon/random"><img src="https://octo-ring.com/static/img/widget/random.png" width="33%" alt="random" align="top" title="random profile"></a><a href="https://octo-ring.com/p/Mylloon/next"><img src="https://octo-ring.com/static/img/widget/next.png" width="33%" alt="next" align="top" title="next profile"></a><br><a href="https://octo-ring.com/"><img src="https://octo-ring.com/static/img/widget/bottom.png" width="99%" alt="check out other GitHub profiles in the Octo Ring" align="top"></a></td></tr></tbody></table>
