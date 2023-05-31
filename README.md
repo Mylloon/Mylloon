@@ -5,7 +5,7 @@
 
 ### Hi 👋
 
-Joined Github **5** years ago.
+Joined Github **6** years ago.
 
 Since then, I pushed **1151** commits, received **5** stars across **11** personal projects and **2** gists.
 
