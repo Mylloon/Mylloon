@@ -29,7 +29,7 @@ Top 3 most used languages:
 
 <p align="center">
     <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B131.9%25" alt="C">
-    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233be133&message=OCaml%EF%B8%B123.8%25" alt="OCaml">
+    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ef7a08&message=OCaml%EF%B8%B123.8%25" alt="OCaml">
     <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23dea584&message=Rust%EF%B8%B114%25" alt="Rust">
     <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B130.1%25" alt="Other">
 </p>
