@@ -1,11 +1,11 @@
 ### Hi 👋
 
-My name is Mylloon, I joined GitHub **{{ ACCOUNT_AGE }}** years ago and I contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}** repositories.
+My name is Mylloon, I joined GitHub **{{ ACCOUNT_AGE }}** years ago and I contributed with code to **{{ REPOSITORIES_CONTRIBUTED_TO }}** alive repositories.
 
-Please, feel free to [my website for more info about me](https://www.mylloon.fr) 😊.  Here I mainly mirror my -most proud- project from my [Forgejo instance](https://git.mylloon.fr).
+Feel free to [check my website for more info about me](https://www.mylloon.fr) 😊.  Here I mainly mirror some projects from my [Forgejo instance](https://git.mylloon.fr).
 
 ---
-My most used languages here:
+My most used languages listed here:
 
 <p align="center">
 {{ LANGUAGE_TEMPLATE_START:max=6 }}
