@@ -1,6 +1,6 @@
 ### Hi 👋
 
-My name is Mylloon, I joined GitHub **9** years ago and I contributed with code to **21** alive repositories.
+My name is Mylloon, I joined GitHub **9** years ago and I contributed with code to **23** alive repositories.
 
 Feel free to [check my website for more info about me](https://www.mylloon.fr) 😊.  Here I mainly mirror some projects from my [Forgejo instance](https://git.mylloon.fr).
 
@@ -8,7 +8,7 @@ Feel free to [check my website for more info about me](https://www.mylloon.fr) �
 My most used languages listed here:
 
 <p align="center">
-    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23355570&message=GDScript%EF%B8%B131.2%25" alt="GDScript">
+    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23355570&message=GDScript%EF%B8%B131.1%25" alt="GDScript">
     <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B116.6%25" alt="C">
     <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23dea584&message=Rust%EF%B8%B114.8%25" alt="Rust">
     <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B111.1%25" alt="TypeScript">
