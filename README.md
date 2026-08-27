@@ -11,7 +11,7 @@ My most used languages listed here:
     <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23355570&message=GDScript%EF%B8%B131.1%25" alt="GDScript">
     <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23555555&message=C%EF%B8%B116.6%25" alt="C">
     <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23dea584&message=Rust%EF%B8%B114.7%25" alt="Rust">
-    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B111.3%25" alt="TypeScript">
+    <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233178c6&message=TypeScript%EF%B8%B111.4%25" alt="TypeScript">
     <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ef7a08&message=OCaml%EF%B8%B19.6%25" alt="OCaml">
     <img src="https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B116.4%25" alt="Other">
 </p>
